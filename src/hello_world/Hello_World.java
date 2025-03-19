@@ -17,6 +17,7 @@ public class Hello_World {
         // TODO code application logic here
         System.out.println("Hello world(202457201018)");
         System.out.println("Hello Nama saya Cialin");
+        System.out.println("Hallo gaiss");
     }
     
 }
